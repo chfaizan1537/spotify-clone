@@ -1,0 +1,153 @@
+*{
+    box-sizing: border-box;
+}
+#navigationbar{
+    
+   border: 2px solid black;
+   background-color: rgb(26, 25, 25);
+   position: absolute;
+   right: 1px;
+
+ width:995px;
+}
+
+ul li{
+    display: inline-block;
+    color: grey;
+    list-style: none;
+    right: 5px;
+    margin: -2px 30px;
+    padding: 5px 8px;
+}
+ul li:hover{
+   color:white;
+}  
+#vertibar li{
+    display: inline-block;
+    left: 2px;
+    color: grey;
+}
+#verticalbar{
+   border: 2px solid black;
+   height: 550px;
+   width: 284px;
+   background-color: black;
+
+}
+#vertibar:hover{
+ color: white;
+}
+#logopic{
+   height: 100px;
+   background-color: black;
+
+}
+img{
+    background: black;
+    width: 95px;
+    height: 10px;
+   
+}
+span{
+    color: aliceblue;
+     position: absolute;
+     top: 40px;
+     size: 40px;
+}
+#contentimg{
+    background-color: rgb(37, 36, 36);
+    height: 350px;
+    width: 270px;
+    position: relative;
+    left: -187px;
+    top: -431px;
+    border: 2px solid black;
+    border-radius: 6px;
+
+}
+#contentimg:hover{
+    background-color:rgb(71, 69, 69);
+}
+#contentimg2:hover{
+    background-color:rgb(71, 69, 69);
+}
+#contentimg3:hover{
+    background-color:rgb(71, 69, 69);
+}
+#contimg{
+    height: 200px;
+    width: 200px;
+}
+#contpara{
+    color: grey;
+}
+#imgh{
+    color: aliceblue;
+}
+#contpara2{
+    color: grey;
+}
+#imgh2{
+    color: aliceblue;
+}
+#contpara3{
+    color: grey;
+}
+#imgh3{
+    color: aliceblue;
+}
+#contpara4{
+    color: grey;
+}
+#imgh4{
+    color: aliceblue;
+}
+#contimg2{
+    height: 200px;
+    width: 200px;
+}
+#contimg3{
+    height: 200px;
+    width: 200px;
+}
+#contimg4{
+    height: 200px;
+    width: 200px;
+}
+#contentimg2{
+    background-color: rgb(37, 36, 36);
+    height: 350px;
+    width: 270px;
+    position: relative;
+  
+    left: 127px;
+    top: -780px;
+
+
+    border: 2px solid black;
+        border-radius: 6px;
+
+}
+#contentimg3{
+    background-color: rgb(37, 36, 36);
+    height: 350px;
+    width: 270px;
+    position: relative;
+    top: -1131px;
+    left: 429px;
+    border: 2px solid black;
+    border-radius: 6px;
+
+}
+#maindiv{
+    background-color: rgb(12 11 11);
+
+
+
+}
+body{
+    background-color: rgb(31, 30, 30);
+}
+#verticalbar ul li:hover{ 
+    color: aliceblue;
+}
